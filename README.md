@@ -15,4 +15,4 @@ Number             | Title                                                    | 
 -------------------|----------------------------------------------------------|---------------------|----------------|--------
 [1](pip-0001.md)   | PIP Purpose and Guidelines                               | Blockchain Projects | Informational  | Draft
 [2](pip-0002.md)   | Conversion from DPOS to GPOS blockchain                  | P.B.S.A             | Protocol       | Draft
-[2](pip-0003.md)   | A manager attribute for sports, event_groups and event objects   | P.B.S.A             | Protocol       | Draft
+[3](pip-0003.md)   | A manager attribute for sports, event_groups and event objects   | P.B.S.A             | Protocol       | Draft
