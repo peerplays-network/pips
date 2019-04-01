@@ -1,7 +1,7 @@
 # Peerplays Improvement Proposal
 
 PIP stands for Peerplays Improvement Proposal. A PIP is a design
-document providing information to the PeerPlays community, or describing
+document providing information to the Peerplays community, or describing
 a new feature for Peerplays or its processes or environment. PIPs
 provide a concise technical specification of features and a rationale
 for them.
