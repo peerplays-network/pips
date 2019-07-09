@@ -18,3 +18,4 @@ Number             | Title                                                    | 
 [3](pip-0003.md)   | A manager attribute for sports, event_groups and event objects   | P.B.S.A             | Protocol       | Draft
 [4](pip-0004.md)   | Introduction of Bitcoin sidechain to Peerplays   | PixelPlex Inc             | Protocol       | Draft
 [5](pip-0005.md)   | Sidechain Operator Nodes (SONs)                          | P.B.S.A             | Protocol        |   Draft
+[6](pip-0006.md)   | Sweeps                                                   | P.B.S.A             | Protocol        |   Draft
