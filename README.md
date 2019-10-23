@@ -20,3 +20,4 @@ Number             | Title                                                    | 
 [5](pip-0005.md)   | Sidechain Operator Nodes (SONs)                          | P.B.S.A             | Protocol        |   Draft
 [6](pip-0006.md)   | Sweeps                                                   | P.B.S.A             | Protocol        |   Draft
 [7](pip-0007.md)   | Peerplays Decentralized Proposals                        | P.B.S.A             | Protocol        |   Draft
+[8](pip-0008.md)   | Boilerplate Application              | Atlantic Blockchain Company             | Protocol        |   Draft
